@@ -21,7 +21,9 @@ In your terminal run the following command:
 This application saves the comic image in the home website and starts an interation of following the previous links and saving all the other comic images until reaches the first one (indicated as /1/).
 
 Please see the below images to understand how the application scrapes the website.
+
 [Image element](https://skynethub.io/PAMus8EfOuI-zJ5f1dVzh1FnSjfpF5XRSQgNmo135Xf_Hg)
+
 [Rel prev](https://skynethub.io/fACgb5wiUzbiTiSeVcSWvdM6SuMTpU0ufXY2U4brBVp6Xg)
 
 Once the comic images are downloaded they will be published to Skynet with a skylink that you can share with everyone.
